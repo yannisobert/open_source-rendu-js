@@ -72,11 +72,11 @@ The mean() function receives an array of values and returns its mean.
 To run the linter and the tests, you need to run the following command:
 
 ```bash
-npm run build
+npm run eslint
 ```
 
 ```bash
-npm test
+npm run test
 ```
 
 ## License
