@@ -1,0 +1,27 @@
+{
+  "name": "yannisobert-open_source-rendu-js",
+  "version": "1.0.0",
+  "description": "It's the description!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "eslint": "npx eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannisobert/open_source-rendu-js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yannisobert/open_source-rendu-js/issues"
+  },
+  "homepage": "https://github.com/yannisobert/open_source-rendu-js#readme",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "csv-parse": "^5.4.0"
+  }
+}
