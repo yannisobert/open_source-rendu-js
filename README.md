@@ -48,7 +48,7 @@ mkdir data
 ## Usage
 <hr>
 
-Dans notre librairie nous retrouvons trois fonctions :
+In our library we find three functions:
 
 <strong>convertToCSV:</strong>
 
